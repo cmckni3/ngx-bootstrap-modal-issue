@@ -1,4 +1,7 @@
-# AngularK2rhhj
+# Reproduces ngx-bootstrap modal race condition
+
+https://github.com/valor-software/ngx-bootstrap/issues/3711
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
